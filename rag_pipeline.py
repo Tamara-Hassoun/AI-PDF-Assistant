@@ -8,7 +8,7 @@ import requests
 # =========================
 # إعدادات Gemini API
 # =========================
-GEMINI_API_KEY = "AIzaSyCDm3KRP9-rtPF8XObb3ZYUx1N3_mg4cUI"
+GEMINI_API_KEY = ""
 
 GEMINI_ENDPOINT = "https://generativelanguage.googleapis.com/v1/models/gemini-2.5-flash:generateContent"
 
